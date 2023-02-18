@@ -20,4 +20,4 @@ const binarySearchAlgo = (array, target) => {
   return null; //if item not found
 };
 
-console.log(binarySearchAlgo([1, 3, 5, 100, 2, 4, 9, 1100], 100));
+console.log(binarySearchAlgo([1, 3, 5, 100, 2, 4, 9, 1100], 2));
